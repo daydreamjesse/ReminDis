@@ -1,3 +1,3 @@
 # ReminDis
-A reminder bot for Discord
-\nCurrently all code is in Alpha branch
+A reminder bot for Discord <br />
+Currently all code is in Alpha branch
