@@ -1,0 +1,16 @@
+# Nov 3 2019
+Set up credentials for Discord API
+Implemented functions to read and parse messages from Discord users
+Set up credentials for MongoDB Atlas
+Implemented functions to structure data correctly
+Implemented DB communcation functions
+
+[ ] TODO:
+- Getting context timeout error when trying to insert to db (ip whitelist err?)
+
+# Nov 4 2019
+
+[X] DONE:
+- Set whitelist to all public IP addresses(still need user credentials to RW though)
+
+Finished implementing insert function
